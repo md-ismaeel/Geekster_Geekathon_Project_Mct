@@ -22,7 +22,6 @@ body {
   border: 1px red solid;
 }
 html {
- 
 }
 
 #menu-bar {
@@ -140,14 +139,12 @@ header:hover ~ section {
   margin-top: 10px;
 }
 
-
 .nav-icons {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 11px;
 }
-
 
 .nav-icons i {
   font-size: 1.4rem;
@@ -320,7 +317,6 @@ header:hover ~ section {
   height: 3.7rem;
   width: 15vw;
   transform: translateY(-1.1rem);
-
 }
 
 /* .login-button {
@@ -362,14 +358,13 @@ header:hover ~ section {
   display: flex;
   justify-content: start;
   gap: 8%;
- 
 }
- .map {
+.map {
   display: flex;
   list-style: none;
   align-items: center;
   margin-left: -1.5rem;
- }
+}
 .navbar-text li {
   padding: 0px 10px;
   text-decoration: none;
@@ -1123,7 +1118,7 @@ i {
 }
 
 #ul-Line {
-  text-decoration:underline;
+  text-decoration: underline;
   color: #f3659b;
 }
 #ul-Line::after {
@@ -1230,7 +1225,7 @@ i {
   bottom: 0;
 }
 
-.overlap-box-1  {
+.overlap-box-1 {
   width: 90%;
 }
 
