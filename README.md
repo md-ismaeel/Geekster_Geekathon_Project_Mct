@@ -19,7 +19,7 @@ Clone the repository: git clone [repository-url]Open the index.html file in your
     
   # Team Info:-
 1. Md-ismaeel (Capitain)<br>
-   - [Homepage](https://md-ismaeel.github.io/Axis-Bank/ESM-Ismail/README-Homepage/)
+   - [Homepage](/)
    - [SME](https://md-ismaeel.github.io/Axis-Bank/ESM-Ismail/README-Homepage/)
 2. Tejal Mohed <br>
    - [Priority](https://github.com/Md-ismaeel/Axis-Bank/tree/main/Tejal%20Mohod/Readme_File)<br>
