@@ -271,36 +271,36 @@ header:hover ~ section {
     width: 52vw;
   }
   /* 
-    .navbar-image  {
-      margin-top: 10px;
-    } */
+  .navbar-image  {
+    margin-top: 10px;
+  } */
 
   /* .nav-icons {
-      visibility: hidden;
-    }
-  
-    .container {
-      width: 30vw;
-      margin-top: 5rem;
-    }
-  
-    .container-image {
-      width: 100%;
-      display: flex;
-      flex-direction: column;
-    }
-  
-    .hero-left-text {
-      display: flex;
-      gap: 4px;
-      width: 100%;
-      border: none;
-    }
-  
-    .hero-section-right {
-      width: 330px;
-      margin-right: 10px;
-    } */
+    visibility: hidden;
+  }
+
+  .container {
+    width: 30vw;
+    margin-top: 5rem;
+  }
+
+  .container-image {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hero-left-text {
+    display: flex;
+    gap: 4px;
+    width: 100%;
+    border: none;
+  }
+
+  .hero-section-right {
+    width: 330px;
+    margin-right: 10px;
+  } */
 }
 
 .navbar-image {
@@ -320,10 +320,10 @@ header:hover ~ section {
 }
 
 /* .login-button {
-    display: inline-block;
-    position: relative;
-    padding: 0px 2px;
-  } */
+  display: inline-block;
+  position: relative;
+  padding: 0px 2px;
+} */
 
 #open-digital {
   text-decoration: none;
@@ -1045,3 +1045,60 @@ body {
 } */
 
 /* footer end---------- */
+
+/* The popup chat - hidden by default */
+.chat-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+
+/* Add styles to the form container */
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+}
+
+/* Full-width textarea */
+.form-container textarea {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+  resize: none;
+  min-height: 200px;
+}
+
+/* When the textarea gets focus, do something */
+.form-container textarea:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit/send button */
+.form-container .btn {
+  background-color: #04aa6d;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom: 10px;
+  opacity: 0.8;
+}
+
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+  background-color: #97144d;
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover,
+.open-button:hover {
+  opacity: 1;
+}
