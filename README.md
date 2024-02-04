@@ -3,7 +3,7 @@
 ## Project Iformation
   Implementing [Axis Bank](https://www.axisbank.com/#mainContentWrap) User Interface!
 ## Hosted Link:
-+  [Axis Bank](https://md-ismaeel.github.io/Axis-Bank/)
++  [Axis Bank](https://md-ismaeel.github.io/Geekster_Geekathon_Project_Mct/)
 
 # Introduction to the Project- <br>
 
