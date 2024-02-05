@@ -1612,30 +1612,4 @@ body {
   color: rgb(244, 139, 157);
 }
 
-/* #box1{
-  display: inline-block;
-  position: relative;
- 
-}
 
-#animationfooter::after {
-  content: '';
-  position: absolute;
-  width: 100%;
-  transform: scaleX(0);
-  height: 2px;
-  bottom: 0;
-  left: 0;
-  background-color: #97144d;
-  transform-origin: bottom right;
-  transition: transform 0.25s ease-out;
-}
-
-#animationfooter:hover{
-  transform: scaleX(1);
-  transform-origin: bottom left;
-} */
-
-/* footer end---------- */
-
-/* Mesia Quries */
